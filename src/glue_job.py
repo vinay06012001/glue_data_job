@@ -8,3 +8,4 @@ if __name__ == "__main__":
     print("Glue job started")
     print(process_data())
     print("Glue job completed successfully")
+    print("new version")
